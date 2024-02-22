@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-student-record-retrieval",
+  "version": "1.0.0",
+  "description": "A system to retrieve a student's record by their ID using Node.js, Express.js, Sequelize, and MySQL.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sequelize": "^6.6.5",
+    "mysql2": "^2.3.0"
+  }
+}
