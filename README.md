@@ -27,6 +27,17 @@ Folder Structure
 
 ![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/d9403fdf-4906-4277-8c3f-b260db67050b)
 
+* config: Contains configuration files, such as database configuration.
+* controllers: Holds controller files responsible for handling HTTP requests and implementing business logic.
+* models: Contains files defining the structure of the student record.
+* routes: Defines endpoints for handling HTTP requests.
+* services: Includes files responsible for interacting with the data storage component (database).
+* tests: Directory for unit tests.
+* app.js: Entry point of the application where Express.js app is created and configured.
+* package.json: Metadata about the project and dependencies.
+* package-lock.json: Lock file for npm dependencies to ensure consistent installations.
+* README.md: Contains setup instructions, documentation, and any other necessary context.
+
 Sample output (API)
 
 ![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/cffca402-8658-450e-bc93-7014bcbbe597)
