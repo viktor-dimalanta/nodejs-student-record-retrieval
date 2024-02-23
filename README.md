@@ -96,12 +96,11 @@ _Follow the steps below to install the project in your local machine._
 5. ADD dummy data
    ```sh
    INSERT INTO students (name, email, course, createdAt, updatedAt)
-   VALUES 
-  ('John Doe', 'john.doe@example.com', 'Computer Science', NOW(), NOW()),
-  ('Jane Smith', 'jane.smith@example.com', 'Mathematics', NOW(), NOW()),
-  ('Alice Johnson', 'alice.johnson@example.com', 'Physics', NOW(), NOW()),
-  ('Bob Brown', 'bob.brown@example.com', 'History', NOW(), NOW());
-
+   VALUES
+   ('John Doe', 'john.doe@example.com', 'Computer Science', NOW(), NOW()),
+   ('Jane Smith', 'jane.smith@example.com', 'Mathematics', NOW(), NOW()),
+   ('Alice Johnson', 'alice.johnson@example.com', 'Physics', NOW(), NOW()),
+   ('Bob Brown', 'bob.brown@example.com', 'History', NOW(), NOW());
    ```
 
 ## How to Run
