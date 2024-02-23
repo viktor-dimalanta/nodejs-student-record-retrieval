@@ -110,7 +110,7 @@ _Follow the steps below to install the project in your local machine._
 
 ## How to Run
 
-Open git bash and path to the project root folder (uses concurrent package for php artisan serve and npm run dev)
+Open git bash and path to the project root folder
 
 * npm start
 * go to localhost:3000
