@@ -112,8 +112,6 @@ Open git bash and path to the project root folder (uses concurrent package for p
 
 ## Fetching Student Record
 
-[To test laravel function and features we will use the default testing found here
-
 https://laravel.com/docs/10.x/testing](http://localhost:3000/students/1)
 
 <!-- USAGE EXAMPLES -->
