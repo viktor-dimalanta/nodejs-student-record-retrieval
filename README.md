@@ -21,6 +21,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Node JS student Record Retrieval 
 
+The application developed to fetch students record in database using node and mysql
+
 Folder Structure
 
 ![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/d9403fdf-4906-4277-8c3f-b260db67050b)
@@ -28,8 +30,6 @@ Folder Structure
 Sample output (API)
 
 ![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/cffca402-8658-450e-bc93-7014bcbbe597)
-
-The application developed to fetch students record in database using node and mysql
 
 DATABASE
 
