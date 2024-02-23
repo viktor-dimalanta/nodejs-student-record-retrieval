@@ -28,8 +28,7 @@ The application developed to fetch students record in database using node and my
 
 Tech Requirements:
 
-*  Backend: MYSQL
-*  Frontend: Node JS
+*  Backend: NodeJS
 *  Database: MySQL
 
 System Design: 
