@@ -31,6 +31,9 @@ Sample output (API)
 
 The application developed to fetch students record in database using node and mysql
 
+DATABASE
+
+![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/3225c7f3-117d-46a3-8579-cec3f1bcead6)
 
 Tech Requirements:
 
