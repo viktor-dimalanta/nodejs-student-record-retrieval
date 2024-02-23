@@ -23,7 +23,7 @@
 
 Folder Structure
 
-![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/7e5adf39-9c6b-424a-aa62-32e0bdb14432)
+![image](https://github.com/viktor-dimalanta/nodejs-student-record-retrieval/assets/45250045/d9403fdf-4906-4277-8c3f-b260db67050b)
 
 Sample output (API)
 
