@@ -120,7 +120,7 @@ Open git bash and path to the project root folder
 
 ## Fetching Student Record
 
-https://laravel.com/docs/10.x/testing](http://localhost:3000/students/1)
+[http://localhost:3000/students/1)](http://localhost:3000/students/1)
 
 <!-- USAGE EXAMPLES -->
 
